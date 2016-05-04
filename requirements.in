@@ -6,3 +6,5 @@ psycopg2
 sentry
 sentry-flowdock
 sentry-github
+sentry-trello
+sentry-slack
