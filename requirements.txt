@@ -65,6 +65,9 @@ redis==2.10.5             # via rb, sentry
 requests[security]==2.9.1  # via sentry
 sentry-flowdock==0.1.1
 sentry-github==0.1.2
+trello==0.9.1
+sentry-slack==0.5.0
+sentry-trello==1.1.7
 sentry==8.3.2
 setproctitle==1.1.9       # via sentry
 simplejson==3.8.2         # via sentry
